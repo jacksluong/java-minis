@@ -1,4 +1,6 @@
-# Algorithmic Projects
+# Java Minis
+
+A collection of mini algorithmic Java projects, most with JavaFX to accompany them.
 
 The project descriptions are as follows:
 > **MazeRunner (9/20/17)** Find a path from the beginning to the end of a maze if it exists.
@@ -8,5 +10,3 @@ The project descriptions are as follows:
 > **TowersOfHanoi (6/23/18)** Solve the Towers of Hanoi problem for N rings, in which it moves a tower of rings to another tower completely.
 
 > **WordSearch (1/29/2019)** This visual program proceeds to search for a target string in a grid of squares in multiple ways.
-
-More details can be found in the files themselves.
